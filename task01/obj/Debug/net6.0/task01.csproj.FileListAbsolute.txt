@@ -1,0 +1,15 @@
+D:\C#семинар\task01\obj\Debug\net6.0\task01.csproj.AssemblyReference.cache
+D:\C#семинар\task01\obj\Debug\net6.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task01\obj\Debug\net6.0\task01.AssemblyInfoInputs.cache
+D:\C#семинар\task01\obj\Debug\net6.0\task01.AssemblyInfo.cs
+D:\C#семинар\task01\obj\Debug\net6.0\task01.csproj.CoreCompileInputs.cache
+D:\C#семинар\task01\bin\Debug\net6.0\task01.exe
+D:\C#семинар\task01\bin\Debug\net6.0\task01.deps.json
+D:\C#семинар\task01\bin\Debug\net6.0\task01.runtimeconfig.json
+D:\C#семинар\task01\bin\Debug\net6.0\task01.dll
+D:\C#семинар\task01\bin\Debug\net6.0\task01.pdb
+D:\C#семинар\task01\obj\Debug\net6.0\task01.dll
+D:\C#семинар\task01\obj\Debug\net6.0\refint\task01.dll
+D:\C#семинар\task01\obj\Debug\net6.0\task01.pdb
+D:\C#семинар\task01\obj\Debug\net6.0\task01.genruntimeconfig.cache
+D:\C#семинар\task01\obj\Debug\net6.0\ref\task01.dll
