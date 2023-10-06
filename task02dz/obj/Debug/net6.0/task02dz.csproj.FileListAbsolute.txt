@@ -1,0 +1,15 @@
+D:\C#семинар\task02dz\bin\Debug\net6.0\task02dz.exe
+D:\C#семинар\task02dz\bin\Debug\net6.0\task02dz.deps.json
+D:\C#семинар\task02dz\bin\Debug\net6.0\task02dz.runtimeconfig.json
+D:\C#семинар\task02dz\bin\Debug\net6.0\task02dz.dll
+D:\C#семинар\task02dz\bin\Debug\net6.0\task02dz.pdb
+D:\C#семинар\task02dz\obj\Debug\net6.0\task02dz.csproj.AssemblyReference.cache
+D:\C#семинар\task02dz\obj\Debug\net6.0\task02dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task02dz\obj\Debug\net6.0\task02dz.AssemblyInfoInputs.cache
+D:\C#семинар\task02dz\obj\Debug\net6.0\task02dz.AssemblyInfo.cs
+D:\C#семинар\task02dz\obj\Debug\net6.0\task02dz.csproj.CoreCompileInputs.cache
+D:\C#семинар\task02dz\obj\Debug\net6.0\task02dz.dll
+D:\C#семинар\task02dz\obj\Debug\net6.0\refint\task02dz.dll
+D:\C#семинар\task02dz\obj\Debug\net6.0\task02dz.pdb
+D:\C#семинар\task02dz\obj\Debug\net6.0\task02dz.genruntimeconfig.cache
+D:\C#семинар\task02dz\obj\Debug\net6.0\ref\task02dz.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task04dz\bin\Debug\net6.0\task04dz.exe
+D:\C#семинар\task04dz\bin\Debug\net6.0\task04dz.deps.json
+D:\C#семинар\task04dz\bin\Debug\net6.0\task04dz.runtimeconfig.json
+D:\C#семинар\task04dz\bin\Debug\net6.0\task04dz.dll
+D:\C#семинар\task04dz\bin\Debug\net6.0\task04dz.pdb
+D:\C#семинар\task04dz\obj\Debug\net6.0\task04dz.csproj.AssemblyReference.cache
+D:\C#семинар\task04dz\obj\Debug\net6.0\task04dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task04dz\obj\Debug\net6.0\task04dz.AssemblyInfoInputs.cache
+D:\C#семинар\task04dz\obj\Debug\net6.0\task04dz.AssemblyInfo.cs
+D:\C#семинар\task04dz\obj\Debug\net6.0\task04dz.csproj.CoreCompileInputs.cache
+D:\C#семинар\task04dz\obj\Debug\net6.0\task04dz.dll
+D:\C#семинар\task04dz\obj\Debug\net6.0\refint\task04dz.dll
+D:\C#семинар\task04dz\obj\Debug\net6.0\task04dz.pdb
+D:\C#семинар\task04dz\obj\Debug\net6.0\task04dz.genruntimeconfig.cache
+D:\C#семинар\task04dz\obj\Debug\net6.0\ref\task04dz.dll
