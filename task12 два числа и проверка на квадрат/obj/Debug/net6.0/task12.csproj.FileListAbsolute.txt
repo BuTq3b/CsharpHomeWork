@@ -1,0 +1,15 @@
+D:\C#семинар\task12\obj\Debug\net6.0\task12.csproj.AssemblyReference.cache
+D:\C#семинар\task12\obj\Debug\net6.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task12\obj\Debug\net6.0\task12.AssemblyInfoInputs.cache
+D:\C#семинар\task12\obj\Debug\net6.0\task12.AssemblyInfo.cs
+D:\C#семинар\task12\obj\Debug\net6.0\task12.csproj.CoreCompileInputs.cache
+D:\C#семинар\task12\bin\Debug\net6.0\task12.exe
+D:\C#семинар\task12\bin\Debug\net6.0\task12.deps.json
+D:\C#семинар\task12\bin\Debug\net6.0\task12.runtimeconfig.json
+D:\C#семинар\task12\bin\Debug\net6.0\task12.dll
+D:\C#семинар\task12\bin\Debug\net6.0\task12.pdb
+D:\C#семинар\task12\obj\Debug\net6.0\task12.dll
+D:\C#семинар\task12\obj\Debug\net6.0\refint\task12.dll
+D:\C#семинар\task12\obj\Debug\net6.0\task12.pdb
+D:\C#семинар\task12\obj\Debug\net6.0\task12.genruntimeconfig.cache
+D:\C#семинар\task12\obj\Debug\net6.0\ref\task12.dll

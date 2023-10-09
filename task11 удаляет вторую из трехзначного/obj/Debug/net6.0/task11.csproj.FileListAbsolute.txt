@@ -1,0 +1,15 @@
+D:\C#семинар\task11\bin\Debug\net6.0\task11.exe
+D:\C#семинар\task11\bin\Debug\net6.0\task11.deps.json
+D:\C#семинар\task11\bin\Debug\net6.0\task11.runtimeconfig.json
+D:\C#семинар\task11\bin\Debug\net6.0\task11.dll
+D:\C#семинар\task11\bin\Debug\net6.0\task11.pdb
+D:\C#семинар\task11\obj\Debug\net6.0\task11.csproj.AssemblyReference.cache
+D:\C#семинар\task11\obj\Debug\net6.0\task11.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task11\obj\Debug\net6.0\task11.AssemblyInfoInputs.cache
+D:\C#семинар\task11\obj\Debug\net6.0\task11.AssemblyInfo.cs
+D:\C#семинар\task11\obj\Debug\net6.0\task11.csproj.CoreCompileInputs.cache
+D:\C#семинар\task11\obj\Debug\net6.0\task11.dll
+D:\C#семинар\task11\obj\Debug\net6.0\refint\task11.dll
+D:\C#семинар\task11\obj\Debug\net6.0\task11.pdb
+D:\C#семинар\task11\obj\Debug\net6.0\task11.genruntimeconfig.cache
+D:\C#семинар\task11\obj\Debug\net6.0\ref\task11.dll
