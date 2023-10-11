@@ -1,0 +1,15 @@
+D:\C#семинар\task13 показ 3й цифры любого числа\bin\Debug\net6.0\task13 показ 3й цифры любого числа.exe
+D:\C#семинар\task13 показ 3й цифры любого числа\bin\Debug\net6.0\task13 показ 3й цифры любого числа.deps.json
+D:\C#семинар\task13 показ 3й цифры любого числа\bin\Debug\net6.0\task13 показ 3й цифры любого числа.runtimeconfig.json
+D:\C#семинар\task13 показ 3й цифры любого числа\bin\Debug\net6.0\task13 показ 3й цифры любого числа.dll
+D:\C#семинар\task13 показ 3й цифры любого числа\bin\Debug\net6.0\task13 показ 3й цифры любого числа.pdb
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\task13 показ 3й цифры любого числа.csproj.AssemblyReference.cache
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\task13 показ 3й цифры любого числа.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\task13 показ 3й цифры любого числа.AssemblyInfoInputs.cache
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\task13 показ 3й цифры любого числа.AssemblyInfo.cs
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\task13 показ 3й цифры любого числа.csproj.CoreCompileInputs.cache
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\task13 показ 3й цифры любого числа.dll
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\refint\task13 показ 3й цифры любого числа.dll
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\task13 показ 3й цифры любого числа.pdb
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\task13 показ 3й цифры любого числа.genruntimeconfig.cache
+D:\C#семинар\task13 показ 3й цифры любого числа\obj\Debug\net6.0\ref\task13 показ 3й цифры любого числа.dll

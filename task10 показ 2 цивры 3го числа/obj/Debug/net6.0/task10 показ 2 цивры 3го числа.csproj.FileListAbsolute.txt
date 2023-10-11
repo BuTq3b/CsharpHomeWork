@@ -1,0 +1,15 @@
+D:\C#семинар\task10 показ 2 цивры 3го числа\bin\Debug\net6.0\task10 показ 2 цивры 3го числа.exe
+D:\C#семинар\task10 показ 2 цивры 3го числа\bin\Debug\net6.0\task10 показ 2 цивры 3го числа.deps.json
+D:\C#семинар\task10 показ 2 цивры 3го числа\bin\Debug\net6.0\task10 показ 2 цивры 3го числа.runtimeconfig.json
+D:\C#семинар\task10 показ 2 цивры 3го числа\bin\Debug\net6.0\task10 показ 2 цивры 3го числа.dll
+D:\C#семинар\task10 показ 2 цивры 3го числа\bin\Debug\net6.0\task10 показ 2 цивры 3го числа.pdb
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\task10 показ 2 цивры 3го числа.csproj.AssemblyReference.cache
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\task10 показ 2 цивры 3го числа.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\task10 показ 2 цивры 3го числа.AssemblyInfoInputs.cache
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\task10 показ 2 цивры 3го числа.AssemblyInfo.cs
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\task10 показ 2 цивры 3го числа.csproj.CoreCompileInputs.cache
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\task10 показ 2 цивры 3го числа.dll
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\refint\task10 показ 2 цивры 3го числа.dll
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\task10 показ 2 цивры 3го числа.pdb
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\task10 показ 2 цивры 3го числа.genruntimeconfig.cache
+D:\C#семинар\task10 показ 2 цивры 3го числа\obj\Debug\net6.0\ref\task10 показ 2 цивры 3го числа.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task15 проверка дня недели на выходной\bin\Debug\net6.0\task15 проверка дня недели на выходной.exe
+D:\C#семинар\task15 проверка дня недели на выходной\bin\Debug\net6.0\task15 проверка дня недели на выходной.deps.json
+D:\C#семинар\task15 проверка дня недели на выходной\bin\Debug\net6.0\task15 проверка дня недели на выходной.runtimeconfig.json
+D:\C#семинар\task15 проверка дня недели на выходной\bin\Debug\net6.0\task15 проверка дня недели на выходной.dll
+D:\C#семинар\task15 проверка дня недели на выходной\bin\Debug\net6.0\task15 проверка дня недели на выходной.pdb
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\task15 проверка дня недели на выходной.csproj.AssemblyReference.cache
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\task15 проверка дня недели на выходной.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\task15 проверка дня недели на выходной.AssemblyInfoInputs.cache
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\task15 проверка дня недели на выходной.AssemblyInfo.cs
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\task15 проверка дня недели на выходной.csproj.CoreCompileInputs.cache
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\task15 проверка дня недели на выходной.dll
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\refint\task15 проверка дня недели на выходной.dll
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\task15 проверка дня недели на выходной.pdb
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\task15 проверка дня недели на выходной.genruntimeconfig.cache
+D:\C#семинар\task15 проверка дня недели на выходной\obj\Debug\net6.0\ref\task15 проверка дня недели на выходной.dll
