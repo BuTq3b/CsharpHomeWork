@@ -1,0 +1,15 @@
+D:\C#семинар\task18 показ дипазона в СК\bin\Debug\net6.0\task18 показ дипазона в СК.exe
+D:\C#семинар\task18 показ дипазона в СК\bin\Debug\net6.0\task18 показ дипазона в СК.deps.json
+D:\C#семинар\task18 показ дипазона в СК\bin\Debug\net6.0\task18 показ дипазона в СК.runtimeconfig.json
+D:\C#семинар\task18 показ дипазона в СК\bin\Debug\net6.0\task18 показ дипазона в СК.dll
+D:\C#семинар\task18 показ дипазона в СК\bin\Debug\net6.0\task18 показ дипазона в СК.pdb
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\task18 показ дипазона в СК.csproj.AssemblyReference.cache
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\task18 показ дипазона в СК.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\task18 показ дипазона в СК.AssemblyInfoInputs.cache
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\task18 показ дипазона в СК.AssemblyInfo.cs
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\task18 показ дипазона в СК.csproj.CoreCompileInputs.cache
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\task18 показ дипазона в СК.dll
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\refint\task18 показ дипазона в СК.dll
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\task18 показ дипазона в СК.pdb
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\task18 показ дипазона в СК.genruntimeconfig.cache
+D:\C#семинар\task18 показ дипазона в СК\obj\Debug\net6.0\ref\task18 показ дипазона в СК.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\task22 таблица квадратов.csproj.AssemblyReference.cache
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\task22 таблица квадратов.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\task22 таблица квадратов.AssemblyInfoInputs.cache
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\task22 таблица квадратов.AssemblyInfo.cs
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\task22 таблица квадратов.csproj.CoreCompileInputs.cache
+D:\C#семинар\task22 таблица квадратов\bin\Debug\net6.0\task22 таблица квадратов.exe
+D:\C#семинар\task22 таблица квадратов\bin\Debug\net6.0\task22 таблица квадратов.deps.json
+D:\C#семинар\task22 таблица квадратов\bin\Debug\net6.0\task22 таблица квадратов.runtimeconfig.json
+D:\C#семинар\task22 таблица квадратов\bin\Debug\net6.0\task22 таблица квадратов.dll
+D:\C#семинар\task22 таблица квадратов\bin\Debug\net6.0\task22 таблица квадратов.pdb
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\task22 таблица квадратов.dll
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\refint\task22 таблица квадратов.dll
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\task22 таблица квадратов.pdb
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\task22 таблица квадратов.genruntimeconfig.cache
+D:\C#семинар\task22 таблица квадратов\obj\Debug\net6.0\ref\task22 таблица квадратов.dll

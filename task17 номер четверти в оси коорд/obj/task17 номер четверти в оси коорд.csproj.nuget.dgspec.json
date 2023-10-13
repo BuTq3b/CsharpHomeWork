@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#семинар\\task00\\task00.csproj": {}
+    "D:\\C#семинар\\task17 номер четверти в оси коорд\\task17 номер четверти в оси коорд.csproj": {}
   },
   "projects": {
-    "D:\\C#семинар\\task00\\task00.csproj": {
+    "D:\\C#семинар\\task17 номер четверти в оси коорд\\task17 номер четверти в оси коорд.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#семинар\\task00\\task00.csproj",
-        "projectName": "task00",
-        "projectPath": "D:\\C#семинар\\task00\\task00.csproj",
+        "projectUniqueName": "D:\\C#семинар\\task17 номер четверти в оси коорд\\task17 номер четверти в оси коорд.csproj",
+        "projectName": "task17 номер четверти в оси коорд",
+        "projectPath": "D:\\C#семинар\\task17 номер четверти в оси коорд\\task17 номер четверти в оси коорд.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\C#семинар\\task00\\obj\\",
+        "outputPath": "D:\\C#семинар\\task17 номер четверти в оси коорд\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"

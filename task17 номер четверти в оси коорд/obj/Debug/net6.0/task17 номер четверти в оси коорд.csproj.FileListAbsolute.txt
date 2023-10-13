@@ -1,0 +1,15 @@
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\task17 номер четверти в оси коорд.csproj.AssemblyReference.cache
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\task17 номер четверти в оси коорд.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\task17 номер четверти в оси коорд.AssemblyInfoInputs.cache
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\task17 номер четверти в оси коорд.AssemblyInfo.cs
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\task17 номер четверти в оси коорд.csproj.CoreCompileInputs.cache
+D:\C#семинар\task17 номер четверти в оси коорд\bin\Debug\net6.0\task17 номер четверти в оси коорд.exe
+D:\C#семинар\task17 номер четверти в оси коорд\bin\Debug\net6.0\task17 номер четверти в оси коорд.deps.json
+D:\C#семинар\task17 номер четверти в оси коорд\bin\Debug\net6.0\task17 номер четверти в оси коорд.runtimeconfig.json
+D:\C#семинар\task17 номер четверти в оси коорд\bin\Debug\net6.0\task17 номер четверти в оси коорд.dll
+D:\C#семинар\task17 номер четверти в оси коорд\bin\Debug\net6.0\task17 номер четверти в оси коорд.pdb
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\task17 номер четверти в оси коорд.dll
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\refint\task17 номер четверти в оси коорд.dll
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\task17 номер четверти в оси коорд.pdb
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\task17 номер четверти в оси коорд.genruntimeconfig.cache
+D:\C#семинар\task17 номер четверти в оси коорд\obj\Debug\net6.0\ref\task17 номер четверти в оси коорд.dll
