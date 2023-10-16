@@ -1,0 +1,15 @@
+D:\C#семинар\task27 суума цифр в числе\bin\Debug\net6.0\task27 суума цифр в числе.exe
+D:\C#семинар\task27 суума цифр в числе\bin\Debug\net6.0\task27 суума цифр в числе.deps.json
+D:\C#семинар\task27 суума цифр в числе\bin\Debug\net6.0\task27 суума цифр в числе.runtimeconfig.json
+D:\C#семинар\task27 суума цифр в числе\bin\Debug\net6.0\task27 суума цифр в числе.dll
+D:\C#семинар\task27 суума цифр в числе\bin\Debug\net6.0\task27 суума цифр в числе.pdb
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\task27 суума цифр в числе.csproj.AssemblyReference.cache
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\task27 суума цифр в числе.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\task27 суума цифр в числе.AssemblyInfoInputs.cache
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\task27 суума цифр в числе.AssemblyInfo.cs
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\task27 суума цифр в числе.csproj.CoreCompileInputs.cache
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\task27 суума цифр в числе.dll
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\refint\task27 суума цифр в числе.dll
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\task27 суума цифр в числе.pdb
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\task27 суума цифр в числе.genruntimeconfig.cache
+D:\C#семинар\task27 суума цифр в числе\obj\Debug\net6.0\ref\task27 суума цифр в числе.dll

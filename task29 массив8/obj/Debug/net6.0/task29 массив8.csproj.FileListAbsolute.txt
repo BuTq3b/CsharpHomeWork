@@ -1,0 +1,15 @@
+D:\C#семинар\task29 массив8\bin\Debug\net6.0\task29 массив8.exe
+D:\C#семинар\task29 массив8\bin\Debug\net6.0\task29 массив8.deps.json
+D:\C#семинар\task29 массив8\bin\Debug\net6.0\task29 массив8.runtimeconfig.json
+D:\C#семинар\task29 массив8\bin\Debug\net6.0\task29 массив8.dll
+D:\C#семинар\task29 массив8\bin\Debug\net6.0\task29 массив8.pdb
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\task29 массив8.csproj.AssemblyReference.cache
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\task29 массив8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\task29 массив8.AssemblyInfoInputs.cache
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\task29 массив8.AssemblyInfo.cs
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\task29 массив8.csproj.CoreCompileInputs.cache
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\task29 массив8.dll
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\refint\task29 массив8.dll
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\task29 массив8.pdb
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\task29 массив8.genruntimeconfig.cache
+D:\C#семинар\task29 массив8\obj\Debug\net6.0\ref\task29 массив8.dll

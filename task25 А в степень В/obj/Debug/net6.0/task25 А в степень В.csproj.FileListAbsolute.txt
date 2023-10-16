@@ -1,0 +1,15 @@
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\task25 А в степень В.csproj.AssemblyReference.cache
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\task25 А в степень В.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\task25 А в степень В.AssemblyInfoInputs.cache
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\task25 А в степень В.AssemblyInfo.cs
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\task25 А в степень В.csproj.CoreCompileInputs.cache
+D:\C#семинар\task25 А в степень В\bin\Debug\net6.0\task25 А в степень В.exe
+D:\C#семинар\task25 А в степень В\bin\Debug\net6.0\task25 А в степень В.deps.json
+D:\C#семинар\task25 А в степень В\bin\Debug\net6.0\task25 А в степень В.runtimeconfig.json
+D:\C#семинар\task25 А в степень В\bin\Debug\net6.0\task25 А в степень В.dll
+D:\C#семинар\task25 А в степень В\bin\Debug\net6.0\task25 А в степень В.pdb
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\task25 А в степень В.dll
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\refint\task25 А в степень В.dll
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\task25 А в степень В.pdb
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\task25 А в степень В.genruntimeconfig.cache
+D:\C#семинар\task25 А в степень В\obj\Debug\net6.0\ref\task25 А в степень В.dll
