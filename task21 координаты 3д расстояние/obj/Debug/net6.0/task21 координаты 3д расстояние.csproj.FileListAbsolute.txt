@@ -1,0 +1,15 @@
+D:\C#семинар\task21 координаты 3д расстояние\bin\Debug\net6.0\task21 координаты 3д расстояние.exe
+D:\C#семинар\task21 координаты 3д расстояние\bin\Debug\net6.0\task21 координаты 3д расстояние.deps.json
+D:\C#семинар\task21 координаты 3д расстояние\bin\Debug\net6.0\task21 координаты 3д расстояние.runtimeconfig.json
+D:\C#семинар\task21 координаты 3д расстояние\bin\Debug\net6.0\task21 координаты 3д расстояние.dll
+D:\C#семинар\task21 координаты 3д расстояние\bin\Debug\net6.0\task21 координаты 3д расстояние.pdb
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\task21 координаты 3д расстояние.csproj.AssemblyReference.cache
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\task21 координаты 3д расстояние.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\task21 координаты 3д расстояние.AssemblyInfoInputs.cache
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\task21 координаты 3д расстояние.AssemblyInfo.cs
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\task21 координаты 3д расстояние.csproj.CoreCompileInputs.cache
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\task21 координаты 3д расстояние.dll
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\refint\task21 координаты 3д расстояние.dll
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\task21 координаты 3д расстояние.pdb
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\task21 координаты 3д расстояние.genruntimeconfig.cache
+D:\C#семинар\task21 координаты 3д расстояние\obj\Debug\net6.0\ref\task21 координаты 3д расстояние.dll

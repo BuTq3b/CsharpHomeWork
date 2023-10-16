@@ -1,0 +1,15 @@
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\task19dz палиндром.csproj.AssemblyReference.cache
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\task19dz палиндром.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\task19dz палиндром.AssemblyInfoInputs.cache
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\task19dz палиндром.AssemblyInfo.cs
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\task19dz палиндром.csproj.CoreCompileInputs.cache
+D:\C#семинар\task19dz палиндром\bin\Debug\net6.0\task19dz палиндром.exe
+D:\C#семинар\task19dz палиндром\bin\Debug\net6.0\task19dz палиндром.deps.json
+D:\C#семинар\task19dz палиндром\bin\Debug\net6.0\task19dz палиндром.runtimeconfig.json
+D:\C#семинар\task19dz палиндром\bin\Debug\net6.0\task19dz палиндром.dll
+D:\C#семинар\task19dz палиндром\bin\Debug\net6.0\task19dz палиндром.pdb
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\task19dz палиндром.dll
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\refint\task19dz палиндром.dll
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\task19dz палиндром.pdb
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\task19dz палиндром.genruntimeconfig.cache
+D:\C#семинар\task19dz палиндром\obj\Debug\net6.0\ref\task19dz палиндром.dll

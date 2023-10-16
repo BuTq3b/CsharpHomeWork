@@ -1,0 +1,15 @@
+D:\C#семинар\task23dz таблица кубов\bin\Debug\net6.0\task23dz таблица кубов.exe
+D:\C#семинар\task23dz таблица кубов\bin\Debug\net6.0\task23dz таблица кубов.deps.json
+D:\C#семинар\task23dz таблица кубов\bin\Debug\net6.0\task23dz таблица кубов.runtimeconfig.json
+D:\C#семинар\task23dz таблица кубов\bin\Debug\net6.0\task23dz таблица кубов.dll
+D:\C#семинар\task23dz таблица кубов\bin\Debug\net6.0\task23dz таблица кубов.pdb
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\task23dz таблица кубов.csproj.AssemblyReference.cache
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\task23dz таблица кубов.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\task23dz таблица кубов.AssemblyInfoInputs.cache
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\task23dz таблица кубов.AssemblyInfo.cs
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\task23dz таблица кубов.csproj.CoreCompileInputs.cache
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\task23dz таблица кубов.dll
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\refint\task23dz таблица кубов.dll
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\task23dz таблица кубов.pdb
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\task23dz таблица кубов.genruntimeconfig.cache
+D:\C#семинар\task23dz таблица кубов\obj\Debug\net6.0\ref\task23dz таблица кубов.dll
