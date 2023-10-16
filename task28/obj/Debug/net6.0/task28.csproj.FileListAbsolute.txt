@@ -1,0 +1,15 @@
+D:\C#семинар\task28\obj\Debug\net6.0\task28.csproj.AssemblyReference.cache
+D:\C#семинар\task28\obj\Debug\net6.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task28\obj\Debug\net6.0\task28.AssemblyInfoInputs.cache
+D:\C#семинар\task28\obj\Debug\net6.0\task28.AssemblyInfo.cs
+D:\C#семинар\task28\obj\Debug\net6.0\task28.csproj.CoreCompileInputs.cache
+D:\C#семинар\task28\bin\Debug\net6.0\task28.exe
+D:\C#семинар\task28\bin\Debug\net6.0\task28.deps.json
+D:\C#семинар\task28\bin\Debug\net6.0\task28.runtimeconfig.json
+D:\C#семинар\task28\bin\Debug\net6.0\task28.dll
+D:\C#семинар\task28\bin\Debug\net6.0\task28.pdb
+D:\C#семинар\task28\obj\Debug\net6.0\task28.dll
+D:\C#семинар\task28\obj\Debug\net6.0\refint\task28.dll
+D:\C#семинар\task28\obj\Debug\net6.0\task28.pdb
+D:\C#семинар\task28\obj\Debug\net6.0\task28.genruntimeconfig.cache
+D:\C#семинар\task28\obj\Debug\net6.0\ref\task28.dll

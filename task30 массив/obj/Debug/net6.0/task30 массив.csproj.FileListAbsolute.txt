@@ -1,0 +1,15 @@
+D:\C#семинар\task30 массив\bin\Debug\net6.0\task30 массив.exe
+D:\C#семинар\task30 массив\bin\Debug\net6.0\task30 массив.deps.json
+D:\C#семинар\task30 массив\bin\Debug\net6.0\task30 массив.runtimeconfig.json
+D:\C#семинар\task30 массив\bin\Debug\net6.0\task30 массив.dll
+D:\C#семинар\task30 массив\bin\Debug\net6.0\task30 массив.pdb
+D:\C#семинар\task30 массив\obj\Debug\net6.0\task30 массив.csproj.AssemblyReference.cache
+D:\C#семинар\task30 массив\obj\Debug\net6.0\task30 массив.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task30 массив\obj\Debug\net6.0\task30 массив.AssemblyInfoInputs.cache
+D:\C#семинар\task30 массив\obj\Debug\net6.0\task30 массив.AssemblyInfo.cs
+D:\C#семинар\task30 массив\obj\Debug\net6.0\task30 массив.csproj.CoreCompileInputs.cache
+D:\C#семинар\task30 массив\obj\Debug\net6.0\task30 массив.dll
+D:\C#семинар\task30 массив\obj\Debug\net6.0\refint\task30 массив.dll
+D:\C#семинар\task30 массив\obj\Debug\net6.0\task30 массив.pdb
+D:\C#семинар\task30 массив\obj\Debug\net6.0\task30 массив.genruntimeconfig.cache
+D:\C#семинар\task30 массив\obj\Debug\net6.0\ref\task30 массив.dll

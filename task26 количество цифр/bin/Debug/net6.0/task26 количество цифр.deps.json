@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task26 количество цифр/1.0.0": {
+        "runtime": {
+          "task26 количество цифр.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task26 количество цифр/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

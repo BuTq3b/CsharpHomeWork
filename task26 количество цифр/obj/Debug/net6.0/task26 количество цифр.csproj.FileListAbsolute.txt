@@ -1,0 +1,15 @@
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\task26 количество цифр.csproj.AssemblyReference.cache
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\task26 количество цифр.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\task26 количество цифр.AssemblyInfoInputs.cache
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\task26 количество цифр.AssemblyInfo.cs
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\task26 количество цифр.csproj.CoreCompileInputs.cache
+D:\C#семинар\task26 количество цифр\bin\Debug\net6.0\task26 количество цифр.exe
+D:\C#семинар\task26 количество цифр\bin\Debug\net6.0\task26 количество цифр.deps.json
+D:\C#семинар\task26 количество цифр\bin\Debug\net6.0\task26 количество цифр.runtimeconfig.json
+D:\C#семинар\task26 количество цифр\bin\Debug\net6.0\task26 количество цифр.dll
+D:\C#семинар\task26 количество цифр\bin\Debug\net6.0\task26 количество цифр.pdb
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\task26 количество цифр.dll
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\refint\task26 количество цифр.dll
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\task26 количество цифр.pdb
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\task26 количество цифр.genruntimeconfig.cache
+D:\C#семинар\task26 количество цифр\obj\Debug\net6.0\ref\task26 количество цифр.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task24 функции\obj\Debug\net6.0\task24 функции.csproj.AssemblyReference.cache
+D:\C#семинар\task24 функции\obj\Debug\net6.0\task24 функции.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task24 функции\obj\Debug\net6.0\task24 функции.AssemblyInfoInputs.cache
+D:\C#семинар\task24 функции\obj\Debug\net6.0\task24 функции.AssemblyInfo.cs
+D:\C#семинар\task24 функции\obj\Debug\net6.0\task24 функции.csproj.CoreCompileInputs.cache
+D:\C#семинар\task24 функции\bin\Debug\net6.0\task24 функции.exe
+D:\C#семинар\task24 функции\bin\Debug\net6.0\task24 функции.deps.json
+D:\C#семинар\task24 функции\bin\Debug\net6.0\task24 функции.runtimeconfig.json
+D:\C#семинар\task24 функции\bin\Debug\net6.0\task24 функции.dll
+D:\C#семинар\task24 функции\bin\Debug\net6.0\task24 функции.pdb
+D:\C#семинар\task24 функции\obj\Debug\net6.0\task24 функции.dll
+D:\C#семинар\task24 функции\obj\Debug\net6.0\refint\task24 функции.dll
+D:\C#семинар\task24 функции\obj\Debug\net6.0\task24 функции.pdb
+D:\C#семинар\task24 функции\obj\Debug\net6.0\task24 функции.genruntimeconfig.cache
+D:\C#семинар\task24 функции\obj\Debug\net6.0\ref\task24 функции.dll
