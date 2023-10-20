@@ -1,0 +1,15 @@
+D:\C#семинар\task35 поиск в массиве\bin\Debug\net6.0\task35 поиск в массиве.exe
+D:\C#семинар\task35 поиск в массиве\bin\Debug\net6.0\task35 поиск в массиве.deps.json
+D:\C#семинар\task35 поиск в массиве\bin\Debug\net6.0\task35 поиск в массиве.runtimeconfig.json
+D:\C#семинар\task35 поиск в массиве\bin\Debug\net6.0\task35 поиск в массиве.dll
+D:\C#семинар\task35 поиск в массиве\bin\Debug\net6.0\task35 поиск в массиве.pdb
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\task35 поиск в массиве.csproj.AssemblyReference.cache
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\task35 поиск в массиве.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\task35 поиск в массиве.AssemblyInfoInputs.cache
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\task35 поиск в массиве.AssemblyInfo.cs
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\task35 поиск в массиве.csproj.CoreCompileInputs.cache
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\task35 поиск в массиве.dll
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\refint\task35 поиск в массиве.dll
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\task35 поиск в массиве.pdb
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\task35 поиск в массиве.genruntimeconfig.cache
+D:\C#семинар\task35 поиск в массиве\obj\Debug\net6.0\ref\task35 поиск в массиве.dll

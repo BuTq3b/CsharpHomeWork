@@ -1,0 +1,15 @@
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\task33 поиск элемента в массиве.csproj.AssemblyReference.cache
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\task33 поиск элемента в массиве.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\task33 поиск элемента в массиве.AssemblyInfoInputs.cache
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\task33 поиск элемента в массиве.AssemblyInfo.cs
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\task33 поиск элемента в массиве.csproj.CoreCompileInputs.cache
+D:\C#семинар\task33 поиск элемента в массиве\bin\Debug\net6.0\task33 поиск элемента в массиве.exe
+D:\C#семинар\task33 поиск элемента в массиве\bin\Debug\net6.0\task33 поиск элемента в массиве.deps.json
+D:\C#семинар\task33 поиск элемента в массиве\bin\Debug\net6.0\task33 поиск элемента в массиве.runtimeconfig.json
+D:\C#семинар\task33 поиск элемента в массиве\bin\Debug\net6.0\task33 поиск элемента в массиве.dll
+D:\C#семинар\task33 поиск элемента в массиве\bin\Debug\net6.0\task33 поиск элемента в массиве.pdb
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\task33 поиск элемента в массиве.dll
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\refint\task33 поиск элемента в массиве.dll
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\task33 поиск элемента в массиве.pdb
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\task33 поиск элемента в массиве.genruntimeconfig.cache
+D:\C#семинар\task33 поиск элемента в массиве\obj\Debug\net6.0\ref\task33 поиск элемента в массиве.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task31 сумма элементов массива\bin\Debug\net6.0\task31 сумма элементов массива.exe
+D:\C#семинар\task31 сумма элементов массива\bin\Debug\net6.0\task31 сумма элементов массива.deps.json
+D:\C#семинар\task31 сумма элементов массива\bin\Debug\net6.0\task31 сумма элементов массива.runtimeconfig.json
+D:\C#семинар\task31 сумма элементов массива\bin\Debug\net6.0\task31 сумма элементов массива.dll
+D:\C#семинар\task31 сумма элементов массива\bin\Debug\net6.0\task31 сумма элементов массива.pdb
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\task31 сумма элементов массива.csproj.AssemblyReference.cache
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\task31 сумма элементов массива.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\task31 сумма элементов массива.AssemblyInfoInputs.cache
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\task31 сумма элементов массива.AssemblyInfo.cs
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\task31 сумма элементов массива.csproj.CoreCompileInputs.cache
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\task31 сумма элементов массива.dll
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\refint\task31 сумма элементов массива.dll
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\task31 сумма элементов массива.pdb
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\task31 сумма элементов массива.genruntimeconfig.cache
+D:\C#семинар\task31 сумма элементов массива\obj\Debug\net6.0\ref\task31 сумма элементов массива.dll

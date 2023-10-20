@@ -1,0 +1,15 @@
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\task37 произведение пар.csproj.AssemblyReference.cache
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\task37 произведение пар.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\task37 произведение пар.AssemblyInfoInputs.cache
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\task37 произведение пар.AssemblyInfo.cs
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\task37 произведение пар.csproj.CoreCompileInputs.cache
+D:\C#семинар\task37 произведение пар\bin\Debug\net6.0\task37 произведение пар.exe
+D:\C#семинар\task37 произведение пар\bin\Debug\net6.0\task37 произведение пар.deps.json
+D:\C#семинар\task37 произведение пар\bin\Debug\net6.0\task37 произведение пар.runtimeconfig.json
+D:\C#семинар\task37 произведение пар\bin\Debug\net6.0\task37 произведение пар.dll
+D:\C#семинар\task37 произведение пар\bin\Debug\net6.0\task37 произведение пар.pdb
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\task37 произведение пар.dll
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\refint\task37 произведение пар.dll
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\task37 произведение пар.pdb
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\task37 произведение пар.genruntimeconfig.cache
+D:\C#семинар\task37 произведение пар\obj\Debug\net6.0\ref\task37 произведение пар.dll

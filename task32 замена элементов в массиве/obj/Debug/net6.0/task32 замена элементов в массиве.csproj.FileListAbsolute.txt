@@ -1,0 +1,15 @@
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\task32 замена элементов в массиве.csproj.AssemblyReference.cache
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\task32 замена элементов в массиве.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\task32 замена элементов в массиве.AssemblyInfoInputs.cache
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\task32 замена элементов в массиве.AssemblyInfo.cs
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\task32 замена элементов в массиве.csproj.CoreCompileInputs.cache
+D:\C#семинар\task32 замена элементов в массиве\bin\Debug\net6.0\task32 замена элементов в массиве.exe
+D:\C#семинар\task32 замена элементов в массиве\bin\Debug\net6.0\task32 замена элементов в массиве.deps.json
+D:\C#семинар\task32 замена элементов в массиве\bin\Debug\net6.0\task32 замена элементов в массиве.runtimeconfig.json
+D:\C#семинар\task32 замена элементов в массиве\bin\Debug\net6.0\task32 замена элементов в массиве.dll
+D:\C#семинар\task32 замена элементов в массиве\bin\Debug\net6.0\task32 замена элементов в массиве.pdb
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\task32 замена элементов в массиве.dll
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\refint\task32 замена элементов в массиве.dll
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\task32 замена элементов в массиве.pdb
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\task32 замена элементов в массиве.genruntimeconfig.cache
+D:\C#семинар\task32 замена элементов в массиве\obj\Debug\net6.0\ref\task32 замена элементов в массиве.dll
