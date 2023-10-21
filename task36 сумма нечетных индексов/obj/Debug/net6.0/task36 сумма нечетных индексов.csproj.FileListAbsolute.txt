@@ -1,0 +1,15 @@
+D:\C#семинар\task36 сумма нечетных индексов\bin\Debug\net6.0\task36 сумма нечетных индексов.exe
+D:\C#семинар\task36 сумма нечетных индексов\bin\Debug\net6.0\task36 сумма нечетных индексов.deps.json
+D:\C#семинар\task36 сумма нечетных индексов\bin\Debug\net6.0\task36 сумма нечетных индексов.runtimeconfig.json
+D:\C#семинар\task36 сумма нечетных индексов\bin\Debug\net6.0\task36 сумма нечетных индексов.dll
+D:\C#семинар\task36 сумма нечетных индексов\bin\Debug\net6.0\task36 сумма нечетных индексов.pdb
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\task36 сумма нечетных индексов.csproj.AssemblyReference.cache
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\task36 сумма нечетных индексов.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\task36 сумма нечетных индексов.AssemblyInfoInputs.cache
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\task36 сумма нечетных индексов.AssemblyInfo.cs
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\task36 сумма нечетных индексов.csproj.CoreCompileInputs.cache
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\task36 сумма нечетных индексов.dll
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\refint\task36 сумма нечетных индексов.dll
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\task36 сумма нечетных индексов.pdb
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\task36 сумма нечетных индексов.genruntimeconfig.cache
+D:\C#семинар\task36 сумма нечетных индексов\obj\Debug\net6.0\ref\task36 сумма нечетных индексов.dll

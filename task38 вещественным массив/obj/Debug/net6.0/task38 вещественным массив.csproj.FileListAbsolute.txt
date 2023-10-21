@@ -1,0 +1,15 @@
+D:\C#семинар\task38 вещественным массив\bin\Debug\net6.0\task38 вещественным массив.exe
+D:\C#семинар\task38 вещественным массив\bin\Debug\net6.0\task38 вещественным массив.deps.json
+D:\C#семинар\task38 вещественным массив\bin\Debug\net6.0\task38 вещественным массив.runtimeconfig.json
+D:\C#семинар\task38 вещественным массив\bin\Debug\net6.0\task38 вещественным массив.dll
+D:\C#семинар\task38 вещественным массив\bin\Debug\net6.0\task38 вещественным массив.pdb
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\task38 вещественным массив.csproj.AssemblyReference.cache
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\task38 вещественным массив.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\task38 вещественным массив.AssemblyInfoInputs.cache
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\task38 вещественным массив.AssemblyInfo.cs
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\task38 вещественным массив.csproj.CoreCompileInputs.cache
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\task38 вещественным массив.dll
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\refint\task38 вещественным массив.dll
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\task38 вещественным массив.pdb
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\task38 вещественным массив.genruntimeconfig.cache
+D:\C#семинар\task38 вещественным массив\obj\Debug\net6.0\ref\task38 вещественным массив.dll
