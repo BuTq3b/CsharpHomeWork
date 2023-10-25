@@ -1,0 +1,15 @@
+D:\C#семинар\task44 Фибоначи\bin\Debug\net6.0\task44 Фибоначи.exe
+D:\C#семинар\task44 Фибоначи\bin\Debug\net6.0\task44 Фибоначи.deps.json
+D:\C#семинар\task44 Фибоначи\bin\Debug\net6.0\task44 Фибоначи.runtimeconfig.json
+D:\C#семинар\task44 Фибоначи\bin\Debug\net6.0\task44 Фибоначи.dll
+D:\C#семинар\task44 Фибоначи\bin\Debug\net6.0\task44 Фибоначи.pdb
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\task44 Фибоначи.csproj.AssemblyReference.cache
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\task44 Фибоначи.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\task44 Фибоначи.AssemblyInfoInputs.cache
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\task44 Фибоначи.AssemblyInfo.cs
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\task44 Фибоначи.csproj.CoreCompileInputs.cache
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\task44 Фибоначи.dll
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\refint\task44 Фибоначи.dll
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\task44 Фибоначи.pdb
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\task44 Фибоначи.genruntimeconfig.cache
+D:\C#семинар\task44 Фибоначи\obj\Debug\net6.0\ref\task44 Фибоначи.dll

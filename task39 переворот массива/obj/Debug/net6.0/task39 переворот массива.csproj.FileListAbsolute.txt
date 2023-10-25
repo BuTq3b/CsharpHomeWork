@@ -1,0 +1,15 @@
+D:\C#семинар\task39 переворот массива\bin\Debug\net6.0\task39 переворот массива.exe
+D:\C#семинар\task39 переворот массива\bin\Debug\net6.0\task39 переворот массива.deps.json
+D:\C#семинар\task39 переворот массива\bin\Debug\net6.0\task39 переворот массива.runtimeconfig.json
+D:\C#семинар\task39 переворот массива\bin\Debug\net6.0\task39 переворот массива.dll
+D:\C#семинар\task39 переворот массива\bin\Debug\net6.0\task39 переворот массива.pdb
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\task39 переворот массива.csproj.AssemblyReference.cache
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\task39 переворот массива.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\task39 переворот массива.AssemblyInfoInputs.cache
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\task39 переворот массива.AssemblyInfo.cs
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\task39 переворот массива.csproj.CoreCompileInputs.cache
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\task39 переворот массива.dll
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\refint\task39 переворот массива.dll
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\task39 переворот массива.pdb
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\task39 переворот массива.genruntimeconfig.cache
+D:\C#семинар\task39 переворот массива\obj\Debug\net6.0\ref\task39 переворот массива.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\task45 поэлементное копирование.csproj.AssemblyReference.cache
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\task45 поэлементное копирование.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\task45 поэлементное копирование.AssemblyInfoInputs.cache
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\task45 поэлементное копирование.AssemblyInfo.cs
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\task45 поэлементное копирование.csproj.CoreCompileInputs.cache
+D:\C#семинар\task45 поэлементное копирование\bin\Debug\net6.0\task45 поэлементное копирование.exe
+D:\C#семинар\task45 поэлементное копирование\bin\Debug\net6.0\task45 поэлементное копирование.deps.json
+D:\C#семинар\task45 поэлементное копирование\bin\Debug\net6.0\task45 поэлементное копирование.runtimeconfig.json
+D:\C#семинар\task45 поэлементное копирование\bin\Debug\net6.0\task45 поэлементное копирование.dll
+D:\C#семинар\task45 поэлементное копирование\bin\Debug\net6.0\task45 поэлементное копирование.pdb
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\task45 поэлементное копирование.dll
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\refint\task45 поэлементное копирование.dll
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\task45 поэлементное копирование.pdb
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\task45 поэлементное копирование.genruntimeconfig.cache
+D:\C#семинар\task45 поэлементное копирование\obj\Debug\net6.0\ref\task45 поэлементное копирование.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task40 треугольник\bin\Debug\net6.0\task40 треугольник.exe
+D:\C#семинар\task40 треугольник\bin\Debug\net6.0\task40 треугольник.deps.json
+D:\C#семинар\task40 треугольник\bin\Debug\net6.0\task40 треугольник.runtimeconfig.json
+D:\C#семинар\task40 треугольник\bin\Debug\net6.0\task40 треугольник.dll
+D:\C#семинар\task40 треугольник\bin\Debug\net6.0\task40 треугольник.pdb
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\task40 треугольник.csproj.AssemblyReference.cache
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\task40 треугольник.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\task40 треугольник.AssemblyInfoInputs.cache
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\task40 треугольник.AssemblyInfo.cs
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\task40 треугольник.csproj.CoreCompileInputs.cache
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\task40 треугольник.dll
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\refint\task40 треугольник.dll
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\task40 треугольник.pdb
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\task40 треугольник.genruntimeconfig.cache
+D:\C#семинар\task40 треугольник\obj\Debug\net6.0\ref\task40 треугольник.dll

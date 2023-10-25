@@ -1,0 +1,15 @@
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\task42 10е в 2е.csproj.AssemblyReference.cache
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\task42 10е в 2е.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\task42 10е в 2е.AssemblyInfoInputs.cache
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\task42 10е в 2е.AssemblyInfo.cs
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\task42 10е в 2е.csproj.CoreCompileInputs.cache
+D:\C#семинар\task42 10е в 2е\bin\Debug\net6.0\task42 10е в 2е.exe
+D:\C#семинар\task42 10е в 2е\bin\Debug\net6.0\task42 10е в 2е.deps.json
+D:\C#семинар\task42 10е в 2е\bin\Debug\net6.0\task42 10е в 2е.runtimeconfig.json
+D:\C#семинар\task42 10е в 2е\bin\Debug\net6.0\task42 10е в 2е.dll
+D:\C#семинар\task42 10е в 2е\bin\Debug\net6.0\task42 10е в 2е.pdb
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\task42 10е в 2е.dll
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\refint\task42 10е в 2е.dll
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\task42 10е в 2е.pdb
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\task42 10е в 2е.genruntimeconfig.cache
+D:\C#семинар\task42 10е в 2е\obj\Debug\net6.0\ref\task42 10е в 2е.dll

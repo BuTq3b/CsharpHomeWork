@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task40 треугольник/1.0.0": {
+        "runtime": {
+          "task40 треугольник.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task40 треугольник/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
