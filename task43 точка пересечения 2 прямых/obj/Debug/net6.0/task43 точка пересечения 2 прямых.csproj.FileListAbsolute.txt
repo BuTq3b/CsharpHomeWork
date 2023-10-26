@@ -1,0 +1,15 @@
+D:\C#семинар\task43 точка пересечения 2 прямых\bin\Debug\net6.0\task43 точка пересечения 2 прямых.exe
+D:\C#семинар\task43 точка пересечения 2 прямых\bin\Debug\net6.0\task43 точка пересечения 2 прямых.deps.json
+D:\C#семинар\task43 точка пересечения 2 прямых\bin\Debug\net6.0\task43 точка пересечения 2 прямых.runtimeconfig.json
+D:\C#семинар\task43 точка пересечения 2 прямых\bin\Debug\net6.0\task43 точка пересечения 2 прямых.dll
+D:\C#семинар\task43 точка пересечения 2 прямых\bin\Debug\net6.0\task43 точка пересечения 2 прямых.pdb
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\task43 точка пересечения 2 прямых.csproj.AssemblyReference.cache
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\task43 точка пересечения 2 прямых.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\task43 точка пересечения 2 прямых.AssemblyInfoInputs.cache
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\task43 точка пересечения 2 прямых.AssemblyInfo.cs
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\task43 точка пересечения 2 прямых.csproj.CoreCompileInputs.cache
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\task43 точка пересечения 2 прямых.dll
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\refint\task43 точка пересечения 2 прямых.dll
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\task43 точка пересечения 2 прямых.pdb
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\task43 точка пересечения 2 прямых.genruntimeconfig.cache
+D:\C#семинар\task43 точка пересечения 2 прямых\obj\Debug\net6.0\ref\task43 точка пересечения 2 прямых.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task41dz\obj\Debug\net6.0\task41dz.csproj.AssemblyReference.cache
+D:\C#семинар\task41dz\obj\Debug\net6.0\task41dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task41dz\obj\Debug\net6.0\task41dz.AssemblyInfoInputs.cache
+D:\C#семинар\task41dz\obj\Debug\net6.0\task41dz.AssemblyInfo.cs
+D:\C#семинар\task41dz\obj\Debug\net6.0\task41dz.csproj.CoreCompileInputs.cache
+D:\C#семинар\task41dz\bin\Debug\net6.0\task41dz.exe
+D:\C#семинар\task41dz\bin\Debug\net6.0\task41dz.deps.json
+D:\C#семинар\task41dz\bin\Debug\net6.0\task41dz.runtimeconfig.json
+D:\C#семинар\task41dz\bin\Debug\net6.0\task41dz.dll
+D:\C#семинар\task41dz\bin\Debug\net6.0\task41dz.pdb
+D:\C#семинар\task41dz\obj\Debug\net6.0\task41dz.dll
+D:\C#семинар\task41dz\obj\Debug\net6.0\refint\task41dz.dll
+D:\C#семинар\task41dz\obj\Debug\net6.0\task41dz.pdb
+D:\C#семинар\task41dz\obj\Debug\net6.0\task41dz.genruntimeconfig.cache
+D:\C#семинар\task41dz\obj\Debug\net6.0\ref\task41dz.dll

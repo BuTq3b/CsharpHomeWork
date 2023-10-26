@@ -1,0 +1,15 @@
+D:\C#семинар\task46 2мерны массив\bin\Debug\net6.0\task46 2мерны массив.exe
+D:\C#семинар\task46 2мерны массив\bin\Debug\net6.0\task46 2мерны массив.deps.json
+D:\C#семинар\task46 2мерны массив\bin\Debug\net6.0\task46 2мерны массив.runtimeconfig.json
+D:\C#семинар\task46 2мерны массив\bin\Debug\net6.0\task46 2мерны массив.dll
+D:\C#семинар\task46 2мерны массив\bin\Debug\net6.0\task46 2мерны массив.pdb
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\task46 2мерны массив.csproj.AssemblyReference.cache
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\task46 2мерны массив.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\task46 2мерны массив.AssemblyInfoInputs.cache
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\task46 2мерны массив.AssemblyInfo.cs
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\task46 2мерны массив.csproj.CoreCompileInputs.cache
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\task46 2мерны массив.dll
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\refint\task46 2мерны массив.dll
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\task46 2мерны массив.pdb
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\task46 2мерны массив.genruntimeconfig.cache
+D:\C#семинар\task46 2мерны массив\obj\Debug\net6.0\ref\task46 2мерны массив.dll

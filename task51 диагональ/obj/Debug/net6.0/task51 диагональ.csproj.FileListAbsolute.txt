@@ -1,0 +1,15 @@
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\task51 диагональ.csproj.AssemblyReference.cache
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\task51 диагональ.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\task51 диагональ.AssemblyInfoInputs.cache
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\task51 диагональ.AssemblyInfo.cs
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\task51 диагональ.csproj.CoreCompileInputs.cache
+D:\C#семинар\task51 диагональ\bin\Debug\net6.0\task51 диагональ.exe
+D:\C#семинар\task51 диагональ\bin\Debug\net6.0\task51 диагональ.deps.json
+D:\C#семинар\task51 диагональ\bin\Debug\net6.0\task51 диагональ.runtimeconfig.json
+D:\C#семинар\task51 диагональ\bin\Debug\net6.0\task51 диагональ.dll
+D:\C#семинар\task51 диагональ\bin\Debug\net6.0\task51 диагональ.pdb
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\task51 диагональ.dll
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\refint\task51 диагональ.dll
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\task51 диагональ.pdb
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\task51 диагональ.genruntimeconfig.cache
+D:\C#семинар\task51 диагональ\obj\Debug\net6.0\ref\task51 диагональ.dll
