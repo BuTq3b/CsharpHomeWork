@@ -1,0 +1,15 @@
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\task52dz среднее арифм.csproj.AssemblyReference.cache
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\task52dz среднее арифм.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\task52dz среднее арифм.AssemblyInfoInputs.cache
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\task52dz среднее арифм.AssemblyInfo.cs
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\task52dz среднее арифм.csproj.CoreCompileInputs.cache
+D:\C#семинар\task52dz среднее арифм\bin\Debug\net6.0\task52dz среднее арифм.exe
+D:\C#семинар\task52dz среднее арифм\bin\Debug\net6.0\task52dz среднее арифм.deps.json
+D:\C#семинар\task52dz среднее арифм\bin\Debug\net6.0\task52dz среднее арифм.runtimeconfig.json
+D:\C#семинар\task52dz среднее арифм\bin\Debug\net6.0\task52dz среднее арифм.dll
+D:\C#семинар\task52dz среднее арифм\bin\Debug\net6.0\task52dz среднее арифм.pdb
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\task52dz среднее арифм.dll
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\refint\task52dz среднее арифм.dll
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\task52dz среднее арифм.pdb
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\task52dz среднее арифм.genruntimeconfig.cache
+D:\C#семинар\task52dz среднее арифм\obj\Debug\net6.0\ref\task52dz среднее арифм.dll

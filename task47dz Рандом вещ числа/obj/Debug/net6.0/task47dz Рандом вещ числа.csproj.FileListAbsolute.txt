@@ -1,0 +1,15 @@
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\task47dz Рандом вещ числа.csproj.AssemblyReference.cache
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\task47dz Рандом вещ числа.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\task47dz Рандом вещ числа.AssemblyInfoInputs.cache
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\task47dz Рандом вещ числа.AssemblyInfo.cs
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\task47dz Рандом вещ числа.csproj.CoreCompileInputs.cache
+D:\C#семинар\task47dz Рандом вещ числа\bin\Debug\net6.0\task47dz Рандом вещ числа.exe
+D:\C#семинар\task47dz Рандом вещ числа\bin\Debug\net6.0\task47dz Рандом вещ числа.deps.json
+D:\C#семинар\task47dz Рандом вещ числа\bin\Debug\net6.0\task47dz Рандом вещ числа.runtimeconfig.json
+D:\C#семинар\task47dz Рандом вещ числа\bin\Debug\net6.0\task47dz Рандом вещ числа.dll
+D:\C#семинар\task47dz Рандом вещ числа\bin\Debug\net6.0\task47dz Рандом вещ числа.pdb
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\task47dz Рандом вещ числа.dll
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\refint\task47dz Рандом вещ числа.dll
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\task47dz Рандом вещ числа.pdb
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\task47dz Рандом вещ числа.genruntimeconfig.cache
+D:\C#семинар\task47dz Рандом вещ числа\obj\Debug\net6.0\ref\task47dz Рандом вещ числа.dll
