@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task53 заменить строки в 2массиве/1.0.0": {
+        "runtime": {
+          "task53 заменить строки в 2массиве.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task53 заменить строки в 2массиве/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

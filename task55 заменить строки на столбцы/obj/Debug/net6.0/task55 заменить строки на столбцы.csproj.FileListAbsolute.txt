@@ -1,0 +1,15 @@
+D:\C#семинар\task55 заменить строки на столбцы\bin\Debug\net6.0\task55 заменить строки на столбцы.exe
+D:\C#семинар\task55 заменить строки на столбцы\bin\Debug\net6.0\task55 заменить строки на столбцы.deps.json
+D:\C#семинар\task55 заменить строки на столбцы\bin\Debug\net6.0\task55 заменить строки на столбцы.runtimeconfig.json
+D:\C#семинар\task55 заменить строки на столбцы\bin\Debug\net6.0\task55 заменить строки на столбцы.dll
+D:\C#семинар\task55 заменить строки на столбцы\bin\Debug\net6.0\task55 заменить строки на столбцы.pdb
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\task55 заменить строки на столбцы.csproj.AssemblyReference.cache
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\task55 заменить строки на столбцы.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\task55 заменить строки на столбцы.AssemblyInfoInputs.cache
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\task55 заменить строки на столбцы.AssemblyInfo.cs
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\task55 заменить строки на столбцы.csproj.CoreCompileInputs.cache
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\task55 заменить строки на столбцы.dll
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\refint\task55 заменить строки на столбцы.dll
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\task55 заменить строки на столбцы.pdb
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\task55 заменить строки на столбцы.genruntimeconfig.cache
+D:\C#семинар\task55 заменить строки на столбцы\obj\Debug\net6.0\ref\task55 заменить строки на столбцы.dll

@@ -1,0 +1,15 @@
+D:\C#семинар\task57 частотный словарь\bin\Debug\net6.0\task57 частотный словарь.exe
+D:\C#семинар\task57 частотный словарь\bin\Debug\net6.0\task57 частотный словарь.deps.json
+D:\C#семинар\task57 частотный словарь\bin\Debug\net6.0\task57 частотный словарь.runtimeconfig.json
+D:\C#семинар\task57 частотный словарь\bin\Debug\net6.0\task57 частотный словарь.dll
+D:\C#семинар\task57 частотный словарь\bin\Debug\net6.0\task57 частотный словарь.pdb
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\task57 частотный словарь.csproj.AssemblyReference.cache
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\task57 частотный словарь.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\task57 частотный словарь.AssemblyInfoInputs.cache
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\task57 частотный словарь.AssemblyInfo.cs
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\task57 частотный словарь.csproj.CoreCompileInputs.cache
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\task57 частотный словарь.dll
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\refint\task57 частотный словарь.dll
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\task57 частотный словарь.pdb
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\task57 частотный словарь.genruntimeconfig.cache
+D:\C#семинар\task57 частотный словарь\obj\Debug\net6.0\ref\task57 частотный словарь.dll

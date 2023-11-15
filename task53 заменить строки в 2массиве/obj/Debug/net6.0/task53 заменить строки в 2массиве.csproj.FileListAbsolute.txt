@@ -1,0 +1,15 @@
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\task53 заменить строки в 2массиве.csproj.AssemblyReference.cache
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\task53 заменить строки в 2массиве.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\task53 заменить строки в 2массиве.AssemblyInfoInputs.cache
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\task53 заменить строки в 2массиве.AssemblyInfo.cs
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\task53 заменить строки в 2массиве.csproj.CoreCompileInputs.cache
+D:\C#семинар\task53 заменить строки в 2массиве\bin\Debug\net6.0\task53 заменить строки в 2массиве.exe
+D:\C#семинар\task53 заменить строки в 2массиве\bin\Debug\net6.0\task53 заменить строки в 2массиве.deps.json
+D:\C#семинар\task53 заменить строки в 2массиве\bin\Debug\net6.0\task53 заменить строки в 2массиве.runtimeconfig.json
+D:\C#семинар\task53 заменить строки в 2массиве\bin\Debug\net6.0\task53 заменить строки в 2массиве.dll
+D:\C#семинар\task53 заменить строки в 2массиве\bin\Debug\net6.0\task53 заменить строки в 2массиве.pdb
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\task53 заменить строки в 2массиве.dll
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\refint\task53 заменить строки в 2массиве.dll
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\task53 заменить строки в 2массиве.pdb
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\task53 заменить строки в 2массиве.genruntimeconfig.cache
+D:\C#семинар\task53 заменить строки в 2массиве\obj\Debug\net6.0\ref\task53 заменить строки в 2массиве.dll
