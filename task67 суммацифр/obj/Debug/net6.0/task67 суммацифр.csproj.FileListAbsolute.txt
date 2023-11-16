@@ -1,0 +1,15 @@
+D:\C#семинар\task67 суммацифр\bin\Debug\net6.0\task67 суммацифр.exe
+D:\C#семинар\task67 суммацифр\bin\Debug\net6.0\task67 суммацифр.deps.json
+D:\C#семинар\task67 суммацифр\bin\Debug\net6.0\task67 суммацифр.runtimeconfig.json
+D:\C#семинар\task67 суммацифр\bin\Debug\net6.0\task67 суммацифр.dll
+D:\C#семинар\task67 суммацифр\bin\Debug\net6.0\task67 суммацифр.pdb
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\task67 суммацифр.csproj.AssemblyReference.cache
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\task67 суммацифр.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\task67 суммацифр.AssemblyInfoInputs.cache
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\task67 суммацифр.AssemblyInfo.cs
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\task67 суммацифр.csproj.CoreCompileInputs.cache
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\task67 суммацифр.dll
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\refint\task67 суммацифр.dll
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\task67 суммацифр.pdb
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\task67 суммацифр.genruntimeconfig.cache
+D:\C#семинар\task67 суммацифр\obj\Debug\net6.0\ref\task67 суммацифр.dll

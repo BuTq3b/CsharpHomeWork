@@ -1,0 +1,15 @@
+D:\C#семинар\task69 рекурс возвести в степень\bin\Debug\net6.0\task69 рекурс возвести в степень.exe
+D:\C#семинар\task69 рекурс возвести в степень\bin\Debug\net6.0\task69 рекурс возвести в степень.deps.json
+D:\C#семинар\task69 рекурс возвести в степень\bin\Debug\net6.0\task69 рекурс возвести в степень.runtimeconfig.json
+D:\C#семинар\task69 рекурс возвести в степень\bin\Debug\net6.0\task69 рекурс возвести в степень.dll
+D:\C#семинар\task69 рекурс возвести в степень\bin\Debug\net6.0\task69 рекурс возвести в степень.pdb
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\task69 рекурс возвести в степень.csproj.AssemblyReference.cache
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\task69 рекурс возвести в степень.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\task69 рекурс возвести в степень.AssemblyInfoInputs.cache
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\task69 рекурс возвести в степень.AssemblyInfo.cs
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\task69 рекурс возвести в степень.csproj.CoreCompileInputs.cache
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\task69 рекурс возвести в степень.dll
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\refint\task69 рекурс возвести в степень.dll
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\task69 рекурс возвести в степень.pdb
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\task69 рекурс возвести в степень.genruntimeconfig.cache
+D:\C#семинар\task69 рекурс возвести в степень\obj\Debug\net6.0\ref\task69 рекурс возвести в степень.dll

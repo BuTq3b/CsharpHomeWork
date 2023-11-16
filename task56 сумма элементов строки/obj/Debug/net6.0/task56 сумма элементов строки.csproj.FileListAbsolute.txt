@@ -1,0 +1,15 @@
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\task56 сумма элементов строки.csproj.AssemblyReference.cache
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\task56 сумма элементов строки.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\task56 сумма элементов строки.AssemblyInfoInputs.cache
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\task56 сумма элементов строки.AssemblyInfo.cs
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\task56 сумма элементов строки.csproj.CoreCompileInputs.cache
+D:\C#семинар\task56 сумма элементов строки\bin\Debug\net6.0\task56 сумма элементов строки.exe
+D:\C#семинар\task56 сумма элементов строки\bin\Debug\net6.0\task56 сумма элементов строки.deps.json
+D:\C#семинар\task56 сумма элементов строки\bin\Debug\net6.0\task56 сумма элементов строки.runtimeconfig.json
+D:\C#семинар\task56 сумма элементов строки\bin\Debug\net6.0\task56 сумма элементов строки.dll
+D:\C#семинар\task56 сумма элементов строки\bin\Debug\net6.0\task56 сумма элементов строки.pdb
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\task56 сумма элементов строки.dll
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\refint\task56 сумма элементов строки.dll
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\task56 сумма элементов строки.pdb
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\task56 сумма элементов строки.genruntimeconfig.cache
+D:\C#семинар\task56 сумма элементов строки\obj\Debug\net6.0\ref\task56 сумма элементов строки.dll

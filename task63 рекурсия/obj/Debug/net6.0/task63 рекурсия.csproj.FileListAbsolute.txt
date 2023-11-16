@@ -1,0 +1,15 @@
+D:\C#семинар\task63 рекурсия\bin\Debug\net6.0\task63 рекурсия.exe
+D:\C#семинар\task63 рекурсия\bin\Debug\net6.0\task63 рекурсия.deps.json
+D:\C#семинар\task63 рекурсия\bin\Debug\net6.0\task63 рекурсия.runtimeconfig.json
+D:\C#семинар\task63 рекурсия\bin\Debug\net6.0\task63 рекурсия.dll
+D:\C#семинар\task63 рекурсия\bin\Debug\net6.0\task63 рекурсия.pdb
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\task63 рекурсия.csproj.AssemblyReference.cache
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\task63 рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\task63 рекурсия.AssemblyInfoInputs.cache
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\task63 рекурсия.AssemblyInfo.cs
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\task63 рекурсия.csproj.CoreCompileInputs.cache
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\task63 рекурсия.dll
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\refint\task63 рекурсия.dll
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\task63 рекурсия.pdb
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\task63 рекурсия.genruntimeconfig.cache
+D:\C#семинар\task63 рекурсия\obj\Debug\net6.0\ref\task63 рекурсия.dll

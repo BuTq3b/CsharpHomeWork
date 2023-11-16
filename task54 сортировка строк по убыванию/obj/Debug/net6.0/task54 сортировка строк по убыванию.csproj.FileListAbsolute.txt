@@ -1,0 +1,15 @@
+D:\C#семинар\task54 сортировка строк по убыванию\bin\Debug\net6.0\task54 сортировка строк по убыванию.exe
+D:\C#семинар\task54 сортировка строк по убыванию\bin\Debug\net6.0\task54 сортировка строк по убыванию.deps.json
+D:\C#семинар\task54 сортировка строк по убыванию\bin\Debug\net6.0\task54 сортировка строк по убыванию.runtimeconfig.json
+D:\C#семинар\task54 сортировка строк по убыванию\bin\Debug\net6.0\task54 сортировка строк по убыванию.dll
+D:\C#семинар\task54 сортировка строк по убыванию\bin\Debug\net6.0\task54 сортировка строк по убыванию.pdb
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\task54 сортировка строк по убыванию.csproj.AssemblyReference.cache
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\task54 сортировка строк по убыванию.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\task54 сортировка строк по убыванию.AssemblyInfoInputs.cache
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\task54 сортировка строк по убыванию.AssemblyInfo.cs
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\task54 сортировка строк по убыванию.csproj.CoreCompileInputs.cache
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\task54 сортировка строк по убыванию.dll
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\refint\task54 сортировка строк по убыванию.dll
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\task54 сортировка строк по убыванию.pdb
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\task54 сортировка строк по убыванию.genruntimeconfig.cache
+D:\C#семинар\task54 сортировка строк по убыванию\obj\Debug\net6.0\ref\task54 сортировка строк по убыванию.dll
