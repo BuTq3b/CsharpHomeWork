@@ -1,0 +1,15 @@
+D:\C#семинар\task58 умножение матриц\bin\Debug\net6.0\task58 умножение матриц.exe
+D:\C#семинар\task58 умножение матриц\bin\Debug\net6.0\task58 умножение матриц.deps.json
+D:\C#семинар\task58 умножение матриц\bin\Debug\net6.0\task58 умножение матриц.runtimeconfig.json
+D:\C#семинар\task58 умножение матриц\bin\Debug\net6.0\task58 умножение матриц.dll
+D:\C#семинар\task58 умножение матриц\bin\Debug\net6.0\task58 умножение матриц.pdb
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\task58 умножение матриц.csproj.AssemblyReference.cache
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\task58 умножение матриц.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\task58 умножение матриц.AssemblyInfoInputs.cache
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\task58 умножение матриц.AssemblyInfo.cs
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\task58 умножение матриц.csproj.CoreCompileInputs.cache
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\task58 умножение матриц.dll
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\refint\task58 умножение матриц.dll
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\task58 умножение матриц.pdb
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\task58 умножение матриц.genruntimeconfig.cache
+D:\C#семинар\task58 умножение матриц\obj\Debug\net6.0\ref\task58 умножение матриц.dll

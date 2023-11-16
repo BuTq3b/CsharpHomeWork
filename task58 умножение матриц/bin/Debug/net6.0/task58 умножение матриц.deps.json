@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task58 умножение матриц/1.0.0": {
+        "runtime": {
+          "task58 умножение матриц.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task58 умножение матриц/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
