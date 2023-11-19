@@ -1,0 +1,15 @@
+D:\C#семинар\task68ДЗ функция Аккермана\bin\Debug\net6.0\task68ДЗ функция Аккермана.exe
+D:\C#семинар\task68ДЗ функция Аккермана\bin\Debug\net6.0\task68ДЗ функция Аккермана.deps.json
+D:\C#семинар\task68ДЗ функция Аккермана\bin\Debug\net6.0\task68ДЗ функция Аккермана.runtimeconfig.json
+D:\C#семинар\task68ДЗ функция Аккермана\bin\Debug\net6.0\task68ДЗ функция Аккермана.dll
+D:\C#семинар\task68ДЗ функция Аккермана\bin\Debug\net6.0\task68ДЗ функция Аккермана.pdb
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\task68ДЗ функция Аккермана.csproj.AssemblyReference.cache
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\task68ДЗ функция Аккермана.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\task68ДЗ функция Аккермана.AssemblyInfoInputs.cache
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\task68ДЗ функция Аккермана.AssemblyInfo.cs
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\task68ДЗ функция Аккермана.csproj.CoreCompileInputs.cache
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\task68ДЗ функция Аккермана.dll
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\refint\task68ДЗ функция Аккермана.dll
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\task68ДЗ функция Аккермана.pdb
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\task68ДЗ функция Аккермана.genruntimeconfig.cache
+D:\C#семинар\task68ДЗ функция Аккермана\obj\Debug\net6.0\ref\task68ДЗ функция Аккермана.dll

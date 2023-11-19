@@ -1,0 +1,15 @@
+D:\C#семинар\task66 сумма в промежутке M N\bin\Debug\net6.0\task66 сумма в промежутке M N.exe
+D:\C#семинар\task66 сумма в промежутке M N\bin\Debug\net6.0\task66 сумма в промежутке M N.deps.json
+D:\C#семинар\task66 сумма в промежутке M N\bin\Debug\net6.0\task66 сумма в промежутке M N.runtimeconfig.json
+D:\C#семинар\task66 сумма в промежутке M N\bin\Debug\net6.0\task66 сумма в промежутке M N.dll
+D:\C#семинар\task66 сумма в промежутке M N\bin\Debug\net6.0\task66 сумма в промежутке M N.pdb
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\task66 сумма в промежутке M N.csproj.AssemblyReference.cache
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\task66 сумма в промежутке M N.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\task66 сумма в промежутке M N.AssemblyInfoInputs.cache
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\task66 сумма в промежутке M N.AssemblyInfo.cs
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\task66 сумма в промежутке M N.csproj.CoreCompileInputs.cache
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\task66 сумма в промежутке M N.dll
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\refint\task66 сумма в промежутке M N.dll
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\task66 сумма в промежутке M N.pdb
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\task66 сумма в промежутке M N.genruntimeconfig.cache
+D:\C#семинар\task66 сумма в промежутке M N\obj\Debug\net6.0\ref\task66 сумма в промежутке M N.dll

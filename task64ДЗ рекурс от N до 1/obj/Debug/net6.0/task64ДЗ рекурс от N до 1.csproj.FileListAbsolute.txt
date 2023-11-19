@@ -1,0 +1,15 @@
+D:\C#семинар\task64ДЗ рекурс от N до 1\bin\Debug\net6.0\task64ДЗ рекурс от N до 1.exe
+D:\C#семинар\task64ДЗ рекурс от N до 1\bin\Debug\net6.0\task64ДЗ рекурс от N до 1.deps.json
+D:\C#семинар\task64ДЗ рекурс от N до 1\bin\Debug\net6.0\task64ДЗ рекурс от N до 1.runtimeconfig.json
+D:\C#семинар\task64ДЗ рекурс от N до 1\bin\Debug\net6.0\task64ДЗ рекурс от N до 1.dll
+D:\C#семинар\task64ДЗ рекурс от N до 1\bin\Debug\net6.0\task64ДЗ рекурс от N до 1.pdb
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\task64ДЗ рекурс от N до 1.csproj.AssemblyReference.cache
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\task64ДЗ рекурс от N до 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\task64ДЗ рекурс от N до 1.AssemblyInfoInputs.cache
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\task64ДЗ рекурс от N до 1.AssemblyInfo.cs
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\task64ДЗ рекурс от N до 1.csproj.CoreCompileInputs.cache
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\task64ДЗ рекурс от N до 1.dll
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\refint\task64ДЗ рекурс от N до 1.dll
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\task64ДЗ рекурс от N до 1.pdb
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\task64ДЗ рекурс от N до 1.genruntimeconfig.cache
+D:\C#семинар\task64ДЗ рекурс от N до 1\obj\Debug\net6.0\ref\task64ДЗ рекурс от N до 1.dll

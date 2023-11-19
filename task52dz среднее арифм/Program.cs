@@ -34,28 +34,34 @@ void Print2DArray(int[,] arr)
     }
 }
 
-void AverageSum(int[,] arr)
+double[] AverageSum(int[,] arr)
 {
+    double[] average = new double[arr.GetLength(1)];
     for (int j = 0; j < arr.GetLength(1); j++)
     {
-        int sum = 0;
+        double sum = 0;
 
         for (int i = 0; i < arr.GetLength(0); i++)
         {
             sum += arr[i, j];
 
         }
-        
-        double result = 0;
-        result = sum/arr.GetLength(0);
-       
-        Console.Write(Math.Round(result, 2) + "\t");
+        average[j] = sum / arr.GetLength(0);
     }
+    return average;
 
-
+}
+void PrintAr(double[] arr)
+{
+    foreach (var item in arr)
+    {
+        Console.Write(item + "\t");
+    }
+    
 }
 
 int[,] user2DArray = Get2DArray(5, 7);
 Print2DArray(user2DArray);
 System.Console.WriteLine();
-AverageSum(user2DArray);
+double[] aver = AverageSum(user2DArray);
+PrintAr(aver);
