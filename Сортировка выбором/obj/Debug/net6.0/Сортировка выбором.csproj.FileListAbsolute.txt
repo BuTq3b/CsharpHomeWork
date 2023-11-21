@@ -1,0 +1,15 @@
+D:\C#семинар\Сортировка выбором\bin\Debug\net6.0\Сортировка выбором.exe
+D:\C#семинар\Сортировка выбором\bin\Debug\net6.0\Сортировка выбором.deps.json
+D:\C#семинар\Сортировка выбором\bin\Debug\net6.0\Сортировка выбором.runtimeconfig.json
+D:\C#семинар\Сортировка выбором\bin\Debug\net6.0\Сортировка выбором.dll
+D:\C#семинар\Сортировка выбором\bin\Debug\net6.0\Сортировка выбором.pdb
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\Сортировка выбором.csproj.AssemblyReference.cache
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\Сортировка выбором.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\Сортировка выбором.AssemblyInfoInputs.cache
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\Сортировка выбором.AssemblyInfo.cs
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\Сортировка выбором.csproj.CoreCompileInputs.cache
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\Сортировка выбором.dll
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\refint\Сортировка выбором.dll
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\Сортировка выбором.pdb
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\Сортировка выбором.genruntimeconfig.cache
+D:\C#семинар\Сортировка выбором\obj\Debug\net6.0\ref\Сортировка выбором.dll
